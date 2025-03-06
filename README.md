@@ -1,5 +1,7 @@
 # Power-Shell
 Alterando permissão de pastas em massa, com script em power shell.
+Abra o PowerShell como Administrador.
+
 # Defina o caminho do diretório
 $diretorio = "\\tasy_docs\gestaodecontratos\ans"
 
